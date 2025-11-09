@@ -1,0 +1,25 @@
+{
+    "name": "liansu/cache",
+    "description": "A extending module of The Liansu Framework",
+    "keywords": [
+        "framework",
+        "liansu",
+        "cache"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Temple Chan",
+            "email": "cmq2080@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0",
+        "liansu/core": "^0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "liansu\\cache\\": "src/"
+        }
+    }
+}

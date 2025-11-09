@@ -1,0 +1,9 @@
+# 开发环境
+/.idea/
+/.vscode/
+
+# Composer配置
+composer.lock
+
+# 第三方依赖
+/vendor/
