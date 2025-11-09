@@ -3,7 +3,7 @@ namespace liansu\traits;
 
 trait TCacheHandlerExpireSeconds
 {
-    protected int $expireSeconds = -1;
+    protected $expireSeconds = -1;
 
     /**
      * @return string
