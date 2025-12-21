@@ -14,8 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "liansu/core": "^0.0.1"
+        "liansu/core": ">=0.4.0"
     },
     "autoload": {
         "psr-4": {
